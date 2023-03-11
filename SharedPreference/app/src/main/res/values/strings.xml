@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shared Preference</string>
+
+    <string name="email_adress">Email adress</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Don\'t have an account? Sign up</string>
+    <string name="have_login">Have an account? Login</string>
+    <string name="sign">Sign</string>
+    <string name="exit_game">Exit App ?</string>
+    <string name="todo">TODO</string>
+    <string name="lets">Let\'s register</string>
+    <string name="or_login_social_media">Or login social media</string>
+</resources>
